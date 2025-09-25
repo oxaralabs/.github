@@ -82,5 +82,5 @@ Whether you're a seasoned developer or just starting out, there are many ways to
 <div align="center">
   <h3> Made with ❤️ by the Oxara Labs Team</h3>
   
-  *Empowering developers, one Discord bot at a time.*
+  *Empowering developers, one project at a time.*
 </div>
