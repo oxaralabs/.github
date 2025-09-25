@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/111525497?s=400&u=951889ca80de8c9c9452fc676a88ade461de2d5f&v=4" alt="Oxara Labs Logo" width="200" height="200" style="border-radius: 50%;">
   
-  # 🚀 Oxara Labs
+  # 🚀 Oxara Development
   
   ### *Building the future of Discord development*
   
