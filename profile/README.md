@@ -5,9 +5,9 @@
   
   ### *Building the future of Discord development*
   
-  [![GitHub followers](https://img.shields.io/github/followers/oxaralabs?style=social)](https://github.com/oxaralabs)
+  [![GitHub followers](https://img.shields.io/github/followers/oxaradev?style=social)](https://github.com/oxaradev)
   [![Discord](https://img.shields.io/badge/Discord-Community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/interchat)
-  [![GitHub Org's stars](https://img.shields.io/github/stars/oxaralabs?style=social)](https://github.com/oxaralabs)
+  [![GitHub Org's stars](https://img.shields.io/github/stars/oxaradev?style=social)](https://github.com/oxaradev)
 </div>
 
 ## Welcome to Oxara Development
@@ -67,7 +67,7 @@ We're just getting started! Here's what's on our roadmap:
 We believe in the power of community-driven development. Join us and be part of something amazing:
 
 - 💬 **[Discord Server](https://interchat.dev/support)** - Get support, share ideas, and connect with other developers
-- 🐦 **[Follow us](https://x.com/oxaralabs** for the latest updates and announcements
+- 🐦 **[Follow us](https://x.com/oxaradev** for the latest updates and announcements
 - ⭐ **Star our repositories** to stay updated with our latest projects
 - 🐛 **Report issues** and help us improve our tools
 
@@ -76,7 +76,7 @@ We believe in the power of community-driven development. Join us and be part of 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxaralabs&show_icons=true&theme=radical&hide_border=true" alt="Oxara Labs GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oxaradev&show_icons=true&theme=radical&hide_border=true" alt="Oxara GitHub Stats" />
 </div>
 
 ## 💡 Get Involved
@@ -91,7 +91,7 @@ Whether you're a seasoned developer or just starting out, there are many ways to
 ---
 
 <div align="center">
-  <h3> Made with ❤️ by the Oxara Labs Team</h3>
+  <h3> Made with ❤️ by the Oxara Dev Team</h3>
   
   *Empowering developers, one project at a time.*
 </div>
