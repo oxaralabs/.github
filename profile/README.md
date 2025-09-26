@@ -20,7 +20,18 @@ To provide developers with powerful, reliable, and easy-to-use tools that enhanc
 
 ## Featured Projects
 
-### InterChat - Our Flagship Discord Bot
+### InterChat - Our Flagship Discord Bot 
+
+<a href="https://top.gg/bot/769921109209907241">
+  <img src="https://top.gg/api/widget/servers/769921109209907241.svg" style="vertical-align: middle;">
+</a>
+<span style="margin-left: 10px; vertical-align: middle;">
+  <a href="https://interchat.tech/invite">Add to Discord</a> • 
+  <a href="https://interchat.tech/docs">Documentation</a> • 
+  <a href="https://discord.gg/cgYgC6YZyX">Support Server</a> • 
+  <a href="https://interchat.tech/vote">Vote for Us</a>
+</span>
+
 
 **[InterChat](https://interchat.dev/)** is our popular Discord bot that has captured the hearts of thousands of users across the Discord community. Built with scalability and user experience in mind, InterChat offers:
 
